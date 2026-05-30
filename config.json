@@ -1,16 +1,15 @@
 {
-  "latestVersionCode": 7,
   "isForce": false,
-  "updateUrl": "https://github.com/laststudio/Fuck_ets100/releases/download/v1.3.1/Fe_1.3.1.apk",
   "isKillSwitchOn": false,
   "noticeMessage": "Fe守护你的答案喵💗",
-  "updateMessage": "## [1.3.1] - 2026-05-27\n\n> 内部版本号：7\n\n### 新增\n- 新增 AOSP 预见性返回手势动画(超级好看哦)\n\n### 变更\n- 升级题目内容解析引擎，采用更高级的文本解析方案，渲染效果更加精致美观，内容排版更清晰易读。\n\n### 修复\n- 修复 Shizuku / Root 权限环境下题目读取异常的问题，同时提升整体读取性能。\n- 修复若干界面显示异常问题，界面呈现更加稳定可靠了。",
   "announcementTitle": "公告",
-  "announcementMessage": "欢迎用我的软件哦,有什么问题可以来找我.觉得我的程序好用的可以点个赞或者star吗,或者给我捐点钱(小小声).",
-  "announcementUpdatedAt": "2026-05-27",
+  "announcementMessage": "欢迎用我的软件哦,有什么问题可以来加我们q群.觉得我的程序好用的可以点个赞或者star吗,或者给我捐点钱(小小声).",
   "announcementUrl": "",
-  "changelogUrl": "https://raw.giteeusercontent.com/qiuqiqiuqid/fe_config/raw/master/update.md",
   "changelogTitle": "更新日志",
-  "changelogSummary": "## [1.3.1] - 2026-05-27\n\n> 内部版本号：7\n\n### 新增\n- 新增 AOSP 预见性返回手势动画(超级好看哦)\n\n### 变更\n- 升级题目内容解析引擎，采用更高级的文本解析方案，渲染效果更加精致美观，内容排版更清晰易读。\n\n### 修复\n- 修复 Shizuku / Root 权限环境下题目读取异常的问题，同时提升整体读取性能。\n- 修复若干界面显示异常问题，界面呈现更加稳定可靠了。",
-  "donateEnabled": true
+  "donateEnabled": true,
+  "latestVersionCode": 8,
+  "updateUrl": "https://oplist.lastudio.cc/Fe_release",
+  "updateMessage": "## [1.3.2] - 2026-05-30\n\n> 内部版本号：8\n\n### 新增\n- 新增渐变预见性返回手势（补充，这些手势代码偷自 @resukisu）\n\n### 变更\n- 改进滑动预见性手势\n\n### 修复\n- 终于修好了广东初中和北京初中的题目解析问题\n\n### 优化\n- 继续优化 Root/Shizuku 的性能",
+  "changelogUrl": "https://raw.githubusercontent.com/laststudio/Fe_config/main/update.md",
+  "changelogSummary": "## [1.3.2] - 2026-05-30\n\n> 内部版本号：8\n\n### 新增\n- 新增渐变预见性返回手势（补充，这些手势代码偷自 @resukisu）\n\n### 变更\n- 改进滑动预见性手势\n\n### 修复\n- 终于修好了广东初中和北京初中的题目解析问题\n\n### 优化\n- 继续优化 Root/Shizuku 的性能"
 }
