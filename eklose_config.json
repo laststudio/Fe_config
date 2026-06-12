@@ -8,8 +8,9 @@
   "announcementUrl": "",
   "changelogTitle": "更新日志",
   "changelogSummary": "新增远程管理、更新提醒和公告入口；公告与更新页已改为独立页面展示。",
-  "changelogUrl": "",
   "latestVersionCode": 1,
-  "updateUrl": "",
-  "updateMessage": ""
+  "updateUrl": "https://oplist.lastudio.cc/Eklose_release",
+  "updateMessage": "## [1.0.0] - 2026-06-11\n\n> 内部版本号：1\n\n### 新增\n- 新增远程管理、更新提醒和公告入口。\n- 新增公告与更新独立页面，支持读取远程公告和更新日志内容。\n- 新增学习中心考试任务读取入口和试卷列表展示。\n\n### 变更\n- 远程配置复用 Fe_config，使用独立的 `eklose_config.json` 配置文件。\n- 主页公告与更新入口使用 miuix 风格组件展示。\n\n### 注意\n- 云端读取前请确认没有正在进行考试、练习、录音或提交。",
+  "changelogUrl": "https://raw.githubusercontent.com/laststudio/Fe_config/main/eklose_update.md",
+  "donateEnabled": true
 }
