@@ -11,5 +11,8 @@
   "updateUrl": "https://oplist.lastudio.cc/Fe_release",
   "updateMessage": "## [1.3.7] - 2026-06-13\n\n> 内部版本号：13\n\n### 优化\n- 修改界面和读取页面显示逻辑\n- 分享修改",
   "changelogUrl": "https://raw.githubusercontent.com/laststudio/Fe_config/main/update.md",
-  "changelogSummary": "## [1.3.7] - 2026-06-13\n\n> 内部版本号：13\n\n### 优化\n- 修改界面和读取页面显示逻辑\n- 分享修改"
+  "changelogSummary": "## [1.3.7] - 2026-06-13\n\n> 内部版本号：13\n\n### 优化\n- 修改界面和读取页面显示逻辑\n- 分享修改",
+  "verificationCode": "fe666",
+  "verificationTitle": "启动验证",
+  "verificationMessage": "请输入验证码继续使用。"
 }
