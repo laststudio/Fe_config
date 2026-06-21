@@ -6,13 +6,13 @@
   "announcementMessage": "本软件完全免费开源,花钱买的那么你被骗了\n 欢迎用我的软件哦, \n有什么问题可以来加我们q群:1102410958反馈;\n访问我们的官网:lastudio.cc;\n觉得我的程序好用的可以点个赞或者star吗,或者给我捐点钱(小小声).",
   "announcementUrl": "",
   "changelogTitle": "更新日志",
-  "donateEnabled": true,
-  "latestVersionCode": 13,
-  "updateUrl": "https://oplist.lastudio.cc/Fe_release",
-  "updateMessage": "## [1.3.7] - 2026-06-13\n\n> 内部版本号：13\n\n### 优化\n- 修改界面和读取页面显示逻辑\n- 分享修改",
-  "changelogUrl": "https://raw.githubusercontent.com/laststudio/Fe_config/main/update.md",
-  "changelogSummary": "## [1.3.7] - 2026-06-13\n\n> 内部版本号：13\n\n### 优化\n- 修改界面和读取页面显示逻辑\n- 分享修改",
   "verificationCode": "fe666",
   "verificationTitle": "防倒卖验证",
-  "verificationMessage": "本软件完全免费,为防止倒卖,请加入群聊1102410958获取验证码"
+  "verificationMessage": "本软件完全免费,为防止倒卖,请加入群聊1102410958获取验证码",
+  "donateEnabled": true,
+  "latestVersionCode": 14,
+  "updateUrl": "https://oplist.lastudio.cc/Fe_release",
+  "updateMessage": "## [1.3.8] - 2026-06-21\n\n> 内部版本号：14\n\n### 新增\n- 加入防倒卖验证",
+  "changelogUrl": "https://raw.githubusercontent.com/laststudio/Fe_config/main/update.md",
+  "changelogSummary": "## [1.3.8] - 2026-06-21\n\n> 内部版本号：14\n\n### 新增\n- 加入防倒卖验证"
 }
