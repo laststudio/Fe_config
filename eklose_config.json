@@ -14,5 +14,6 @@
   "changelogUrl": "https://raw.githubusercontent.com/laststudio/Fe_config/main/eklose_update.md",
   "donateEnabled": true,
   "verificationTitle": "防倒卖验证",
-  "verificationMessage": ""
+  "verificationMessage": "本软件完全免费,为防止倒卖,请加入群聊1102410958获取验证码",
+  "verificationCode": "eklose666"
 }
