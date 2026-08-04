@@ -11,9 +11,9 @@
   "verificationCode": "eklose666",
   "verificationTitle": "防倒卖验证",
   "verificationMessage": "本软件完全免费,为防止倒卖,请加入群聊1102410958获取验证码",
-  "latestVersionCode": 2,
-  "updateUrl": "https://oplist.lastudio.cc/Eklose_release",
-  "updateMessage": "## [1.0.1] - 2026-07-03\n\n> 内部版本号：2\n\n### 新增\n- 加入防倒卖。",
+  "latestVersionCode": 3,
+  "updateUrl": "https://github.com/laststudio/eklose/releases/latest",
+  "updateMessage": "## [1.10] - 2026-08-04\n\n> 内部版本号：3\n\n### 新增\n- 新增常规作业支持。\n- 学校选择新增动画效果。\n- 新增可选悬浮底栏。\n\n### 优化\n- 优化部分界面的圆角样式。",
   "changelogUrl": "https://raw.githubusercontent.com/laststudio/Fe_config/main/eklose_update.md",
   "donateEnabled": true
 }
