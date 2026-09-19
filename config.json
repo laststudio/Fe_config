@@ -1,18 +1,18 @@
 {
-  "isForce": true,
+  "isForce": false,
   "isKillSwitchOn": false,
-  "noticeMessage": "Fe守护你的答案喵💗",
+  "noticeMessage": "Fe守护你的答案喵~",
   "announcementTitle": "公告",
-  "announcementMessage": "本软件完全免费,花钱买的那么你被骗了\n 欢迎用我的软件哦, \n有什么问题可以来加我们q群:1102410958反馈;\n访问我们的官网:lastudio.cc;\n觉得我的程序好用的可以点个赞或者捐点钱吗",
+  "announcementMessage": "本软件完全免费,欢迎使用\n有什么问题可以加入QQ群1102410958反馈\n访问官网 lastudio.cc",
   "announcementUrl": "",
   "changelogTitle": "更新日志",
-  "verificationCode": "fe666",
-  "verificationTitle": "防倒卖验证",
-  "verificationMessage": "本软件完全免费,为防止倒卖,请加入群聊1102410958获取验证码",
+  "verificationCode": "",
+  "verificationTitle": "",
+  "verificationMessage": "",
   "donateEnabled": true,
-  "latestVersionCode": 17,
+  "latestVersionCode": 21,
   "updateUrl": "https://oplist.lastudio.cc/Fe_release",
-  "updateMessage": "## [1.3.11] - 2026-07-19\n\n> 内部版本号：17\n\n### 优化\n- 优化源文件导出，为后续大更新做铺垫。\n- 优化mt3风格，ui颜色优化",
+  "updateMessage": "## [2.0.3] - 2026-09-19\n\n> 内部版本号：21\n\n### 新增\n- 深度适配词汇 PK 题型：支持当前作业、历史作业与 PK 专项题目的标准答案提取与解析\n- 作业分类全面升级：新增「词汇PK」专属分类，支持当前作业、历史作业与词汇PK无缝切换\n- 专属竞技视觉标识：词汇PK作业卡片支持高亮徽章与专属竞技色彩标记\n\n### 修复\n- 紧急修复历史作业中词汇 PK 题提示“未能解析到任何题目”的问题\n- 优化云端题目数据 Base64 解码与多级回退链机制\n\n### 优化\n- 提升云端题目解析性能与动态结构同步稳定性\n- 优化大列表流畅度与分类状态记忆",
   "changelogUrl": "https://raw.githubusercontent.com/laststudio/Fe_config/main/update.md",
-  "changelogSummary": "## [1.3.11] - 2026-07-19\n\n> 内部版本号：17\n\n### 优化\n- 优化源文件导出，为后续大更新做铺垫。\n- 优化mt3风格，ui颜色优化"
+  "changelogSummary": "## [2.0.3] - 2026-09-19\n\n> 内部版本号：21\n\n### 新增\n- 深度适配词汇 PK 题型：支持当前作业、历史作业与 PK 专项题目的标准答案提取与解析\n- 作业分类全面升级：新增「词汇PK」专属分类，支持当前作业、历史作业与词汇PK无缝切换\n- 专属竞技视觉标识：词汇PK作业卡片支持高亮徽章与专属竞技色彩标记\n\n### 修复\n- 紧急修复历史作业中词汇 PK 题提示“未能解析到任何题目”的问题\n- 优化云端题目数据 Base64 解码与多级回退链机制\n\n### 优化\n- 提升云端题目解析性能与动态结构同步稳定性\n- 优化大列表流畅度与分类状态记忆"
 }
