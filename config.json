@@ -1,7 +1,7 @@
 {
   "announcementMessage": "Fe Web 网页版已上线，支持云端作业获取与答案解析。还有最厉害的自动完成喵!!\n可以访问https://fe-web.lastudio.cc\n本软件完全免费,欢迎使用\n有什么问题可以加入QQ群1102410958反馈\n访问官网 lastudio.cc",
   "announcementTitle": "公告",
-  "announcementUpdatedAt": "2026-10-03T14:19:59.138378+08:00",
+  "announcementUpdatedAt": "2026-10-03T14:20:08.447531+08:00",
   "announcementUrl": "",
   "changelogSummary": "## [2.0.3] - 2026-09-19\n\n> 内部版本号：21\n\n### 修复\n- 紧急修复历史作业中 PK / 词汇题解析失败显示“未能解析到任何题目”的问题\n- 优化云端题目数据 Base64 解码与多级回退链机制（覆盖已结束的对战任务与历史练习数据）",
   "changelogTitle": "更新日志",
@@ -12,7 +12,7 @@
     "answer_share": true,
     "cloud_mode": true
   },
-  "integrityCheckEnabled": true,
+  "integrityCheckEnabled": false,
   "isForce": true,
   "isKillSwitchOn": false,
   "latestVersionCode": 21,
