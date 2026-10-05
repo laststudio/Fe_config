@@ -11,9 +11,9 @@
   "verificationCode": "eklose666",
   "verificationTitle": "防倒卖验证",
   "verificationMessage": "本软件完全免费,为防止倒卖,请加入群聊1102410958获取验证码",
-  "latestVersionCode": 4,
+  "latestVersionCode": 6,
   "updateUrl": "https://github.com/laststudio/eklose/releases/latest",
-  "updateMessage": "## [1.2.0] - 2026-10-05\n\n> 内部版本号：4\n\n### 新增\n- 学习中心考试支持按题型模块（模仿朗读、信息转述、听选信息、回答问题、询问信息等）多分区展示。\n- 支持查看考试个人成绩与全班排名、全班成绩榜单（班级排名、学生姓名、得分、学号）。\n- 增强学校检索，支持通过区县代码获取学校。\n- 答案详情页新增“复制 JSON 答案”功能，支持导出符合格式的结构化题目答案数据。\n- 常规作业中增强混合考试任务安全识别与分流。",
+  "updateMessage": "## [1.2.2] - 2026-10-05\n\n> 内部版本号：6\n\n### 修复\n- 修复考试成绩与班级排名卡片在未开放全班榜单时被隐藏的问题，支持仅含个人得分时正常展示个人得分并展示排名状态（未公布）。\n- 修复任务列表刷新时考试成绩与班级排名缓存丢失的问题，补齐本地磁盘持久化与进入答案页时的任务缓存自动兜底解析。\n- 增强成绩与排名多源解析能力，兼容支持各类榜单及排名候选字段（`rank_list`、`class_rank` 等）与 HTML 多嵌入块场景。",
   "changelogUrl": "https://raw.githubusercontent.com/laststudio/Fe_config/main/eklose_update.md",
   "donateEnabled": true
 }
