@@ -1,7 +1,7 @@
 {
   "announcementMessage": "自动完成已上架Fe网页版,可以访问fe-web.lastudio.cc\n可以访问https://fe-web.lastudio.cc\n本软件完全免费,欢迎使用\n有什么问题可以加入QQ群1102410958反馈\n访问官网 lastudio.cc",
   "announcementTitle": "公告",
-  "announcementUpdatedAt": "2026-10-04T22:20:32.021284+08:00",
+  "announcementUpdatedAt": "2026-10-05T10:27:57.933750+08:00",
   "announcementUrl": "",
   "changelogSummary": "# Fe v2.1.0\n\n## 下载地址\n- APK：https://oplist.lastudio.cc/Fe_android\n\n## 本次更新\n\n## [2.1.0] - 2026-10-03\n\n> 内部版本号：22\n\n### 新增\n- 主页、读取页支持下拉刷新\n- 验证码改为原生实现，登录更快更稳\n- 支持绑定畅言账号\n\n### 变更\n- 关于页独立成页，主页简化\n- 用户协议改为在线加载\n- 品牌正名：LA Studio → LastStudio\n- 整个项目模块化重构了一遍\n\n### 修复\n- 修复界面闪烁、注册后不自动返回等若干问题\n\n\n## 注意事项\n- 本软件仅供学习交流使用，请勿用于考试作弊等违规行为。\n- 云端模式登录可能导致官方客户端被顶号，请避开考试、练习、录音提交等关键场景。\n\n---\n\n解析器内核：ets_resolver",
   "changelogTitle": "更新日志",
