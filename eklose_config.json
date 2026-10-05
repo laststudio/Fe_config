@@ -11,9 +11,9 @@
   "verificationCode": "eklose666",
   "verificationTitle": "防倒卖验证",
   "verificationMessage": "本软件完全免费,为防止倒卖,请加入群聊1102410958获取验证码",
-  "latestVersionCode": 3,
+  "latestVersionCode": 4,
   "updateUrl": "https://github.com/laststudio/eklose/releases/latest",
-  "updateMessage": "## [1.10] - 2026-08-04\n\n> 内部版本号：3\n\n### 新增\n- 新增常规作业支持。\n- 学校选择新增动画效果。\n- 新增可选悬浮底栏。\n\n### 优化\n- 优化部分界面的圆角样式。",
+  "updateMessage": "## [1.2.0] - 2026-10-05\n\n> 内部版本号：4\n\n### 新增\n- 学习中心考试支持按题型模块（模仿朗读、信息转述、听选信息、回答问题、询问信息等）多分区展示。\n- 支持查看考试个人成绩与全班排名、全班成绩榜单（班级排名、学生姓名、得分、学号）。\n- 增强学校检索，支持通过区县代码获取学校。\n- 答案详情页新增“复制 JSON 答案”功能，支持导出符合格式的结构化题目答案数据。\n- 常规作业中增强混合考试任务安全识别与分流。",
   "changelogUrl": "https://raw.githubusercontent.com/laststudio/Fe_config/main/eklose_update.md",
   "donateEnabled": true
 }
