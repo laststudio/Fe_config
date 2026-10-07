@@ -1,19 +1,20 @@
 {
   "isForce": false,
   "isKillSwitchOn": false,
-  "noticeMessage": "翼课校长守护你的答案喵~。",
+  "noticeMessage": "翼课校长打压你!!",
   "announcementTitle": "公告",
   "announcementMessage": "欢迎用我的软件哦, \n有什么问题可以来加我们q群:1102410958反馈;\n访问我们的官网:lastudio.cc;\n觉得我的程序好用的可以点个赞或者star吗,或者给我捐点钱(小小声).",
-  "announcementUpdatedAt": "2026-06-11",
+  "announcementUpdatedAt": "2026-08-11T17:26:06.334704+08:00",
   "announcementUrl": "",
   "changelogTitle": "更新日志",
-  "changelogSummary": "新增远程管理、更新提醒和公告入口；公告与更新页已改为独立页面展示。",
+  "changelogSummary": "远程管理、更新提醒和公告入口。",
   "verificationCode": "eklose666",
   "verificationTitle": "防倒卖验证",
   "verificationMessage": "本软件完全免费,为防止倒卖,请加入群聊1102410958获取验证码",
-  "latestVersionCode": 6,
-  "updateUrl": "https://github.com/laststudio/eklose/releases/latest",
-  "updateMessage": "## [1.2.2] - 2026-10-05\n\n> 内部版本号：6\n\n### 修复\n- 修复考试成绩与班级排名卡片在未开放全班榜单时被隐藏的问题，支持仅含个人得分时正常展示个人得分并展示排名状态（未公布）。\n- 修复任务列表刷新时考试成绩与班级排名缓存丢失的问题，补齐本地磁盘持久化与进入答案页时的任务缓存自动兜底解析。\n- 增强成绩与排名多源解析能力，兼容支持各类榜单及排名候选字段（`rank_list`、`class_rank` 等）与 HTML 多嵌入块场景。",
+  "latestVersionCode": 1,
+  "updateUrl": "",
+  "updateMessage": "",
   "changelogUrl": "https://raw.githubusercontent.com/laststudio/Fe_config/main/eklose_update.md",
-  "donateEnabled": true
+  "donateEnabled": false,
+  "integrityCheckEnabled": true
 }
