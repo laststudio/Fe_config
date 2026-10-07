@@ -1,20 +1,25 @@
 {
-  "isForce": false,
+  "latestVersionCode": 7,
+  "updateUrl": "https://lastudio.cc/dl/eklose/latest",
   "isKillSwitchOn": false,
+  "isForce": false,
+  "updateMessage": "## [1.3.0] - 2026-10-07\n\n> 内部版本号：7\n\n### 新增\n- **答案解析全面升级**：接入与官方客户端口径对齐的全新解析内核，答案解析更稳定，新题型适配更新更及时。\n- **全新液态玻璃视觉**：界面引入液态玻璃（Liquid Glass）效果，通透精致，操作动效更顺滑。\n- **UI 多项优化**：主题设置、登录等界面与文案细节整体打磨，观感更统一。",
   "noticeMessage": "翼课校长打压你!!",
   "announcementTitle": "公告",
   "announcementMessage": "欢迎用我的软件哦, \n有什么问题可以来加我们q群:1102410958反馈;\n访问我们的官网:lastudio.cc;\n觉得我的程序好用的可以点个赞或者star吗,或者给我捐点钱(小小声).",
-  "announcementUpdatedAt": "2026-10-07T22:12:25.168587+08:00",
+  "announcementUpdatedAt": "2026-06-11",
   "announcementUrl": "",
+  "changelogUrl": "https://raw.githubusercontent.com/laststudio/Fe_config/main/eklose_update.md",
   "changelogTitle": "更新日志",
   "changelogSummary": "答案解析内置 Rust 解析库、新增云端模式开关；修复解析停用后的转圈与缓存绕过。",
-  "verificationCode": "eklose666",
-  "verificationTitle": "防倒卖验证",
-  "verificationMessage": "本软件完全免费,为防止倒卖,请加入群聊1102410958获取验证码",
-  "latestVersionCode": 7,
-  "updateUrl": "https://lastudio.cc/dl/eklose/latest",
-  "updateMessage": "## [1.3.0] - 2026-10-07\n\n> 内部版本号：7\n\n### 新增\n- **答案解析全面升级**：接入与官方客户端口径对齐的全新解析内核，答案解析更稳定，新题型适配更新更及时。\n- **全新液态玻璃视觉**：界面引入液态玻璃（Liquid Glass）效果，通透精致，操作动效更顺滑。\n- **UI 多项优化**：主题设置、登录等界面与文案细节整体打磨，观感更统一。",
-  "changelogUrl": "https://raw.githubusercontent.com/laststudio/Fe_config/main/eklose_update.md",
+  "verificationCode": "",
+  "verificationTitle": "",
+  "verificationMessage": "",
   "donateEnabled": false,
-  "integrityCheckEnabled": true
+  "integrityCheckEnabled": true,
+  "features": {
+    "answer_parser": false
+  },
+  "signingPublicKey": "8i06qnGdq6lm6wj8NDm22Nh0_nP6_k38Kg_Lz0xHIiY",
+  "signingKeyId": "51b812c67199c51b"
 }
